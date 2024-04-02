@@ -64,7 +64,7 @@
                     android:id="@+id/text_card"
                     android:layout_width="0dp"
                     android:layout_height="wrap_content"
-                    android:text="@string/card_text"
+                    android:text="owo"
                     android:textAlignment="center"
                     android:textAppearance="?attr/textAppearanceHeadline5"
                     app:layout_constraintEnd_toEndOf="parent"
